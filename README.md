@@ -62,7 +62,7 @@
 
 ## Deploy On Heroku
 
-[Deploy on Heroku](https://heroku.deploy.queenanya.work.gd/)
+[Deploy on Heroku](https://dashboard.heroku.com/new-app?template=https://github.com/godzenitsu/Anya_v2-MD)
 
 ---
 
